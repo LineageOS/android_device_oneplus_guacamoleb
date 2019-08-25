@@ -6,10 +6,10 @@
 -include device/oneplus/sm8150-common/BoardConfigCommon.mk
 
 BOARD_VENDOR := oneplus
-DEVICE_PATH := device/oneplus/guacamole
+DEVICE_PATH := device/oneplus/guacamoleb
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := OnePlus7Pro
+TARGET_OTA_ASSERT_DEVICE := OnePlus7
 
 # Display
 TARGET_SCREEN_DENSITY := 560
@@ -35,9 +35,6 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 BOARD_USES_RECOVERY_AS_BOOT := true
 TARGET_NO_RECOVERY := true
 TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
-
-# Treble
-DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Fingerprint
 SOONG_CONFIG_ONEPLUS_MSMNILE_FOD_POS_X = 610

@@ -24,7 +24,7 @@ fi
 set -e
 
 # Required!
-export DEVICE=guacamole
+export DEVICE=guacamoleb
 export DEVICE_COMMON=sm8150-common
 export VENDOR=oneplus
 

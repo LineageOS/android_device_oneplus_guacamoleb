@@ -142,7 +142,7 @@
     </array>
     <item name="cpu.idle">5</item>
     <item name="cpu.awake">8</item>
-    <item name="battery.capacity">4000</item>
+    <item name="battery.capacity">3700</item>
     <array name="wifi.batchedscan">
         <value>.0002</value>
         <value>.002</value>
