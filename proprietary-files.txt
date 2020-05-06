@@ -21,6 +21,7 @@ vendor/lib/hw/camera.qcom.so
 vendor/lib/hw/com.qti.chi.override.so
 vendor/lib64/camera/com.qti.sensormodule.gcoreinc_gc5035.bin
 vendor/lib64/camera/com.qti.sensormodule.semco_imx586.bin
+vendor/lib64/camera/com.qti.sensormodule.sunny_imx471.bin
 vendor/lib64/camera/com.qti.tuned.gcoreinc_gc5035.bin
 vendor/lib64/camera/com.qti.tuned.gcoreinc_gc5035_18821.bin
 vendor/lib64/camera/com.qti.tuned.semco_imx586.bin
