@@ -24,4 +24,7 @@ export VENDOR=oneplus
 
 export DEVICE_BRINGUP_YEAR=2019
 
+export MARU_VERSION=0.7-test
+export MARU_BUILD_VERSION=$(MARU_VERSION)-$(shell date -u +%Y%m%d)
+
 "./../../${VENDOR}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"

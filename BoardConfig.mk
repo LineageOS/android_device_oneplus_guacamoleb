@@ -15,7 +15,7 @@ TARGET_OTA_ASSERT_DEVICE := OnePlus7
 TARGET_SCREEN_DENSITY := 480
 
 # Kernel
-TARGET_KERNEL_CONFIG := vendor/sm8150-perf_defconfig
+TARGET_KERNEL_CONFIG := vendor/maru-guacamoleb_defconfig
 
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
