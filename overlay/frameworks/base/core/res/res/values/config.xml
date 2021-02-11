@@ -342,9 +342,6 @@
     <!-- Fast brightness animation ramp rate in brightness units per second-->
     <integer translatable="false" name="config_brightness_ramp_rate_fast">400</integer>
 
-    <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">8dp</dimen>
-
     <string translatable="false" name="config_mainBuiltInDisplayCutout">
         M -185,0
         H 183.34
