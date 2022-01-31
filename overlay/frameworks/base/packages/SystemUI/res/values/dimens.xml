@@ -18,4 +18,7 @@
 <resources>
     <dimen name="rounded_corner_content_padding">18dp</dimen>
     <dimen name="system_icons_keyguard_padding_end">16dp</dimen>
+
+    <!-- Margin on the left side of the carrier text on Keyguard -->
+    <dimen name="keyguard_carrier_text_margin">70px</dimen>
 </resources>
