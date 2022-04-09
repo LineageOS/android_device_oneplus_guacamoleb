@@ -16,6 +16,24 @@
       "message": "can you push whole chain instead of a single commit?",
       "revId": "42a851c985fe140859edbae0d453ef49ecfab2e6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "db2a5ea7_a30f0ccc",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30583
+      },
+      "writtenOn": "2022-04-09T19:58:15Z",
+      "side": 1,
+      "message": "I will, just getting used to LOS gerrit",
+      "parentUuid": "f31888b4_a35fcb21",
+      "revId": "42a851c985fe140859edbae0d453ef49ecfab2e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
