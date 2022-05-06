@@ -9,7 +9,7 @@ BOARD_VENDOR := oneplus
 DEVICE_PATH := device/oneplus/guacamoleb
 
 # Display
-TARGET_SCREEN_DENSITY := 480
+TARGET_SCREEN_DENSITY := 420
 
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
