@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b8911bc_10ffee2d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-10-22T11:02:50Z",
+      "side": 1,
+      "message": "18857 is op7, see:\n\n```\n  if ( !((unsigned int)v20 ^ \u00275881\u0027 | WORD2(v20) ^ \u00277\u0027)\n    || !((unsigned int)v20 ^ \u00275881\u0027 | WORD2(v20) ^ \u00275\u0027)\n    || !((unsigned int)v20 ^ \u00275881\u0027 | WORD2(v20) ^ \u00273\u0027)\n    || !((unsigned int)v20 ^ \u00275881\u0027 | WORD2(v20) ^ \u00271\u0027) )\n  {\n    __android_log_print(\n      4LL,\n      \"android.hardware.biometrics.fingerprint@2.1-service\",\n      \"SM8150 set goodix iconlocation to 278 (pixel:540 2062) (all: 1080 2340), iconsize to 198, iconnumber to 1 \");\n    property_set(\"persist.vendor.fingerprint.optical.iconlocation\", \"278\");\n    v2 \u003d \"198\";\n    goto LABEL_198;\n  }\n```",
+      "revId": "4ebf44792932de95ca1320631d3e9ef5fbfd2168",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
