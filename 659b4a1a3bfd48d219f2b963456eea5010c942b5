@@ -22,6 +22,30 @@
       },
       "revId": "659b4a1a3bfd48d219f2b963456eea5010c942b5",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e05dccd7_0f93c70b",
+        "filename": "overlay-lineage/packages/apps/Aperture/app/src/main/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 33,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2022-12-10T10:48:50Z",
+      "side": 1,
+      "message": "yes, I did that on other 8150 trees and I\u0027m fixing it right now.",
+      "parentUuid": "8faab9a3_4615ecbf",
+      "range": {
+        "startLine": 33,
+        "startChar": 8,
+        "endLine": 33,
+        "endChar": 65
+      },
+      "revId": "659b4a1a3bfd48d219f2b963456eea5010c942b5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": []
