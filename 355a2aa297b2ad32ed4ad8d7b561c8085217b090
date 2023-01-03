@@ -16,6 +16,23 @@
       "message": "Some movement on this would be nice. Changes verified on a private build.",
       "revId": "355a2aa297b2ad32ed4ad8d7b561c8085217b090",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "fa8ef48b_5116e635",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2023-01-03T19:07:23Z",
+      "side": 1,
+      "message": "it\u0027s still reverting code style fixes for no reason whatsoever.",
+      "revId": "355a2aa297b2ad32ed4ad8d7b561c8085217b090",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
