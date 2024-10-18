@@ -21,14 +21,12 @@ PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := GM1901
 PRODUCT_BRAND := OnePlus
 
-PRODUCT_SYSTEM_NAME := OnePlus7
-PRODUCT_SYSTEM_DEVICE := OnePlus7
-
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="OnePlus7-user 12 SKQ1.211113.001 P.202303230244 release-keys" \
-    TARGET_DEVICE=$(PRODUCT_SYSTEM_DEVICE) \
-    TARGET_PRODUCT=$(PRODUCT_SYSTEM_NAME)
-
-BUILD_FINGERPRINT := OnePlus/OnePlus7/OnePlus7:12/SKQ1.211113.001/P.202303230244:user/release-keys
+    DeviceName=OnePlus7 \
+    DeviceProduct=OnePlus7 \
+    SystemName=OnePlus7 \
+    SystemDevice=OnePlus7 \
+    BuildDesc="OnePlus7-user 12 SKQ1.211113.001 P.202303230244 release-keys" \
+    BuildFingerprint=OnePlus/OnePlus7/OnePlus7:12/SKQ1.211113.001/P.202303230244:user/release-keys
