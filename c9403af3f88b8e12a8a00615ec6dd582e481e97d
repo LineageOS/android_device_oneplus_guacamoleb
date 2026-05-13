@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2a1edb03_6d8ffb41",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-05-13T04:01:40Z",
+      "side": 1,
+      "message": "Requires a full wipe, hold until a wipe can be warranted",
+      "revId": "c9403af3f88b8e12a8a00615ec6dd582e481e97d",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
